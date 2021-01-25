@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Landhiani
 tagline:          Personal Blog Landhiani
 description:      I'm a writer based in Indonesia. I love to create content not just for search engine, but also for you :) 
-url:              http://landhiani.github.io
-baseurl:          /
+url:              "http://landhiani.github.io"
+baseurl:          "/"
 
 author:
   name:           'Justin'
